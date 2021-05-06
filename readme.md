@@ -10,6 +10,7 @@
 ## [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
 
 
+
 * Supports both 9800 and AireOS controller types
 * New implementation for the WLC Config Analyzer. it is a new re-write of the application, with clean up and improved checks
 * Two versions available: as Cloud, just upload your file and get a summary report, or as mini-Desktop application,  with more detailed information
