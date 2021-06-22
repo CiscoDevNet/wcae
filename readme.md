@@ -5,10 +5,10 @@
 
 * Support, Questions, Feature requests: [wcae@cisco.com](mailto:wcae@cisco.com)
 
-## [Or use the WCAE cloud version](https://cway.cisco.com/tools/WirelessAnalyzer/)
+### [Alternative cloud version, feature limited](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
-## [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
-## [|Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
+### [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
+### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
 # What is WCAE?
 * Supports both 9800 and AireOS controller types
