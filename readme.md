@@ -8,17 +8,16 @@
 ## [Or use the WCAE cloud version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
 ## [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
+## [|Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
-
-
+# What is WCAE?
 * Supports both 9800 and AireOS controller types
 * New implementation for the WLC Config Analyzer. it is a new re-write of the application, with clean up and improved checks
 * Two versions available: as Cloud, just upload your file and get a summary report, or as mini-Desktop application,  with more detailed information
 * Main Objective: Save time processing WLC configurations
-* Secondary Objective: RF Analysis
-* Secondary Objective: Audit config against a rule set
+* Secondary Objectives: RF Analysis and  Audit config against a rule set
 * It is fully  offline to the controller, it does not store any data, or sends any data back
-* It is not a TAC supported products, it is basically provided "as is"
+* It is not a TAC supported products, basically provided "as is"
 * Support, Questions, Feature requests: [wcae@cisco.com](mailto:wcae@cisco.com)
 
 # What is needed?
