@@ -22,7 +22,7 @@
 
 # What is needed?
 
-* if using AireOS controller:  the output of the "show run-config" command
+* if using AireOS controller: the output of the "show run-config" command
 * if using IOS-XE controller: the output of "show tech wireless"
 * It does not work with TFTP config backup, or sh tech
 * For AireOS, the best way to collect is is using TFTP  with “transfer upload data run-conf”
@@ -30,9 +30,9 @@
 
 # What is supported?
 * Single WLC scenario. No support for multiple WLCs/files
-* AireOS  version 8.0 and higher
-* IOS-XE version 16.11 and higher
-* All controller/Mobility Express (ME) hardware types
+* AireOS  version 8.0 and higher, any model
+* IOS-XE version 16.11 and higher, any model
+* All controller/Mobility Express (ME) and Embedded Wireless Controller hardware types
 
 # WCAE mini-Desktop
 * Same engine as the cloud version, same checks
