@@ -6,22 +6,22 @@
 * Support, Questions, Feature requests: [wcae@cisco.com](mailto:wcae@cisco.com)
 * [Webex Teams Room](https://eurl.io/#R6RK2M73v)
 
-### [Alternative cloud version, feature limited](https://cway.cisco.com/tools/WirelessAnalyzer/)
+### [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
 ### [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
-# What is WCAE?
-* Supports both 9800 and AireOS controller types
-* New implementation for the WLC Config Analyzer. it is a new re-write of the application, with clean up and improved checks
-* Two versions available: as Cloud, just upload your file and get a summary report, or as mini-Desktop application,  with more detailed information
-* Main Objective: Save time processing WLC configurations
+## What is WCAE?
+* Main Objective: Save time processing WLC configurations, provides information on common configuration errors and best practices
 * Secondary Objectives: RF Analysis and  Audit config against a rule set
+* Supports both 9800 and AireOS controller types
+* New implementation for the WLC Config Analyzer (WLCCA). it is a new re-write of the application, with clean up and improved checks
+* Two versions available: as Cloud, just upload your file and get a summary report, or as mini-Desktop application,  with more detailed information
 * It is fully  offline to the controller, it does not store any data, or sends any data back
 * It is not a TAC supported products, basically provided "as is"
 * Support, Questions, Feature requests: [wcae@cisco.com](mailto:wcae@cisco.com)
 
-# What is needed?
+## What is needed?
 
 * if using AireOS controller: the output of the "show run-config" command
 * if using IOS-XE controller: the output of "show tech wireless"
@@ -29,13 +29,13 @@
 * For AireOS, the best way to collect is is using TFTP  with “transfer upload data run-conf”
 * Alternatively: use  SSH with config paging disabled
 
-# What is supported?
+## What is supported?
 * Single WLC scenario. No support for multiple WLCs/files
 * AireOS  version 8.0 and higher, any model
 * IOS-XE version 16.11 and higher, any model
 * All controller/Mobility Express (ME) and Embedded Wireless Controller hardware types
 
-# WCAE mini-Desktop
+## WCAE mini-Desktop
 * Same engine as the cloud version, same checks
 * A lot more details, specially on the RF analysis side
 * Per AP detailed information
@@ -58,7 +58,7 @@
 * Flexconnect AP config verification
 
 
-# WCAE Cloud
+## [WCAE Cloud](https://cway.cisco.com/tools/WirelessAnalyzer/)
 * Focus on Summaries not Details
 * Provides around 190 automatic checks
 * RF Stats, RF Health summarised per AP Group/Tag, Flex Group and controller
