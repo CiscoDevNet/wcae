@@ -23,7 +23,7 @@
 
 ## What is needed?
 
-* if using AireOS controller: the output of the "show run-config" command
+* if using AireOS controller: the output of the "show run-config" command. [How to collect](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!how-to-colletct-sh-run-config)
 * if using IOS-XE controller: the output of "show tech wireless"
 * It does not work with TFTP config backup, or sh tech
 * For AireOS, the best way to collect is is using TFTP  with “transfer upload data run-conf”
