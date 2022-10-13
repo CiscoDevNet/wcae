@@ -8,7 +8,7 @@
 
 ### [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
-### [Changelog](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!changelog)
+### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
 ## What is WCAE?
