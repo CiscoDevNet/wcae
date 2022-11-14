@@ -11,6 +11,11 @@
 ### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
+## Important Note
+if using MacOS Ventura, you should the file wcae-mac-0100b-unsigned.zip, until the next version is available
+As this is unsigned app, you may need to apply [Apple workaround](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac), to allow temporarily execution of the application
+Next signed version will incorporate the changes
+
 ## What is WCAE?
 * Main Objective: Save time processing WLC configurations, provides information on common configuration errors and best practices
 * Secondary Objectives: RF Analysis and  Audit config against a rule set
