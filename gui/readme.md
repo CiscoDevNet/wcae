@@ -5,7 +5,7 @@
 * [Webex Teams Room](https://eurl.io/#R6RK2M73v)
 * Version 0.1 - January 24
 
-### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/gui/wcae-gui-mac-arm-v01.zip)
+### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/gui/wcae-gui-mac-arm-v02.zip)
 ### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/gui/wcae-gui-mac-intel-v01.zip)
 ### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/gui/wcae-gui-win-v01.zip)
 
