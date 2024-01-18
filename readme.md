@@ -11,10 +11,17 @@
 ### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
-## Important Note
-if using MacOS Ventura, you should the file wcae-mac-0100b-unsigned.zip, until the next version is available
-As this is unsigned app, you may need to apply [Apple workaround](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac), to allow temporarily execution of the application
-Next signed version will incorporate the changes
+## GUI Version - Support for 9800
+### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-v04-arm-signed.zip)
+### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-v04-intel-signed.zip)
+### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v04.zip)
+
+## Min-GUI Version - Support for AireOS - 9800
+### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/wcae-mac-018-arm64.zip)
+### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-mac-018-x86.zip)
+### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-win-018.zip)
+These are unsigned builds, you may need to apply [Apple workaround](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac), to allow temporarily execution of the application Next signed version will incorporate the changes
+
 
 ## What is WCAE?
 * Main Objective: Save time processing WLC configurations, provides information on common configuration errors and best practices
