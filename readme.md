@@ -11,10 +11,10 @@
 ### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
-## GUI Version - Support for 9800
-### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-v04-arm-signed.zip)
-### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-v04-intel-signed.zip)
-### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v04.zip)
+## GUI Version - Support for 9800 - New! Version 0.5. February 2024
+### Mac OS ARM - Apple Silicon M1/M2, Use Intel, until Signing is completed](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-v05-signed.zip)
+### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-v05-signed.zip)
+### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v05.zip)
 
 ## Min-GUI Version - Support for AireOS - 9800
 ### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/wcae-mac-018-arm64.zip)
