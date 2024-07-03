@@ -13,14 +13,22 @@
 
 ### Downloads
 * [Cloud Version - Pending update](https://cway.cisco.com/tools/WirelessAnalyzer/)
-* Arm version has packaging problem
+* [New Unsigned - Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-unsigned-v08.zip)
 * [New Unsigned - Mac OS Intel ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-unsigned-v08.zip)
 * [Old Signed - Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-v06-signed.zip)
 * [Old Signed - Mac OS Intel ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-v06-signed.zip)
 * [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-08.zip)
 * [Direct Downloads](https://github.com/CiscoDevNet/wcae)  
 
-These are unsigned builds, you may need to apply [Apple workaround](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac), to allow temporarily execution of the application Next signed version will incorporate the changes
+## How to use unsigned builds in Mac OS (Ventura, etc)
+Until file gets signed version, you may need to explicitly  change permissions to allow application execution.
+For example, If the zip file was expanded in Downloads folder, you will need to open terminal, go to the directory, and reset permissions there:
+
+```
+cd Downloads
+xattr -dr com.apple.quarantine ./wcae.app/
+```
+This is only needed once, then application should work.
 
 
 ## What is WCAE?
