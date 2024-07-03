@@ -11,15 +11,14 @@
 ### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
 ### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
 
-## GUI Version - Support for 9800 - New! Version 0.5. February 2024
-### Mac OS ARM - Apple Silicon M1/M2, Use Intel, until Signing is completed](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-v05-signed.zip)
-### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-v05-signed.zip)
-### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v05.zip)
+* [Cloud Version - Pending update](https://cway.cisco.com/tools/WirelessAnalyzer/)
+* [New Unsigned - Mac OS Apple Sillicon ](wcae-gui/releases/wcae-gui-mac-arm-unsigned-v08.zip)
+* [New Unsigned - Mac OS Intel ](wcae-gui/releases/wcae-gui-mac-intel-unsigned-v08.zip)
+* [Old Signed - Mac OS Apple Sillicon ](wcae-gui/releases/wcae-gui-mac-arm-v06-signed.zip)
+* [Old Signed - Mac OS Intel ](wcae-gui/releases/wcae-gui-mac-intel-v06-signed.zip)
+* [Windows 10/11 ](wcae-gui/releases/wcae-gui-win-08.zip)
+* [Direct Downloads](https://github.com/CiscoDevNet/wcae)  
 
-## Min-GUI Version - Support for AireOS - 9800
-### [Mac OS ARM - Apple Silicon M1/M2](https://github.com/CiscoDevNet/wcae/blob/master/wcae-mac-018-arm64.zip)
-### [Mac OS Intel](https://github.com/CiscoDevNet/wcae/blob/master/wcae-mac-018-x86.zip)
-### [Windows 10/11](https://github.com/CiscoDevNet/wcae/blob/master/wcae-win-018.zip)
 These are unsigned builds, you may need to apply [Apple workaround](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac), to allow temporarily execution of the application Next signed version will incorporate the changes
 
 
