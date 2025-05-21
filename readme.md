@@ -8,26 +8,16 @@
 
 ### [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
-### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!what-is-new/what-is-new)
-### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/#!checks-available-in-tool)
+### [What is new](https://developer.cisco.com/docs/wireless-troubleshooting-tools/what-is-new-engine/)
+### [Checks Available](https://developer.cisco.com/docs/wireless-troubleshooting-tools/checks-available-in-tool/)
 
 ### Downloads
-* [Cloud Version - Pending update](https://cway.cisco.com/tools/WirelessAnalyzer/)
-* [Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-signed-v08.zip)
-* [Mac OS Intel ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-signed-v08.zip)
-* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-08.zip)
+* [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
+* [Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-signed-v11.zip)
+* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-win-v11.zip)
 * [Direct Downloads](https://github.com/CiscoDevNet/wcae)  
 
-## How to use unsigned builds in Mac OS (Ventura, etc)
-Until file gets signed version, you may need to explicitly  change permissions to allow application execution.
-For example, If the zip file was expanded in Downloads folder, you will need to open terminal, go to the directory, and reset permissions there:
-
-```
-cd Downloads
-xattr -dr com.apple.quarantine ./wcae.app/
-```
-This is only needed once, then application should work.
-
+    
 
 ## What is WCAE?
 * Main Objective: Save time processing WLC configurations, provides information on common configuration errors and best practices
@@ -53,14 +43,6 @@ This is only needed once, then application should work.
 * IOS-XE version 16.11 and higher, any model
 * All controller/Mobility Express (ME) and Embedded Wireless Controller hardware types
 
-## WCAE mini-Desktop
-* Same engine as the cloud version, same checks
-* A lot more details, specially on the RF analysis side
-* Per AP detailed information
-* Several new reports included
-* Supports Mac OS or Windows 10
-* BETA version, several features under development
-* Results can be exported as text or XLS file
 
 ## Reports included
 * Excel or text results file on same location as source
