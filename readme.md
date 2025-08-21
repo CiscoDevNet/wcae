@@ -5,6 +5,7 @@
 
 * Support, Questions, Feature requests: [wcae@cisco.com](mailto:wcae@cisco.com)
 * [Webex Teams Room](https://eurl.io/#R6RK2M73v)
+* [Tool home page:](https://developer.cisco.com/docs/wireless-troubleshooting-tools/)
 
 ### [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 
@@ -13,8 +14,9 @@
 
 ### Downloads
 * [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
-* [Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-signed-v11.zip)
-* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-win-v11.zip)
+* [Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-signed-v12.zip)
+* [Mac OS Intel ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-signed-v12.zip)
+* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v12.zip)
 * [Direct Downloads](https://github.com/CiscoDevNet/wcae)  
 
     
