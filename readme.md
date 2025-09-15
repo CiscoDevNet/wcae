@@ -16,7 +16,7 @@
 * [Cloud Version](https://cway.cisco.com/tools/WirelessAnalyzer/)
 * [Mac OS Apple Sillicon ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-arm-signed-v12.zip)
 * [Mac OS Intel ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-mac-intel-signed-v12.zip)
-* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v12.zip)
+* [Windows 10/11 ](https://github.com/CiscoDevNet/wcae/blob/master/wcae-gui-win-v12a.zip)
 * [Direct Downloads](https://github.com/CiscoDevNet/wcae)  
 
     
